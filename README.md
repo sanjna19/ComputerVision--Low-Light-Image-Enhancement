@@ -17,6 +17,17 @@ Low-light conditions lead to images with poor visibility, high noise, and low cl
 
 ---
 
+## Dataset
+### **LOL Dataset**
+- The LOL (Low-Light) dataset consists of 500 pairs of low-light and normal-light images. It was used to benchmark the model's performance.
+
+### **Custom Dataset**
+- For testing, our team curated a custom dataset by capturing images in low-light conditions across the UIC campus. These real-world images enriched our testing protocol, ensuring the model's effectiveness in practical scenarios.
+- The dataset includes diverse lighting conditions and environments to test the model's robustness.
+- **Access the Dataset:** A link to the dataset hosted on Google Drive is provided in the code file.
+
+---
+
 ## Methodology
 ### **Data Preprocessing**
 - Utilized the LOL dataset (500 pairs of low-light and normal-light images) and real-world images captured at the UIC campus.
